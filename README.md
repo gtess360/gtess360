@@ -97,27 +97,3 @@
 </p>
 
 ---
-
-## 📚 What I'm Currently Learning
-
-```text
-Python
-  └── Programming & Problem Solving
-
-Data Science
-  ├── NumPy
-  ├── Pandas
-  ├── Data Cleaning
-  └── Data Visualization
-
-Machine Learning
-  ├── Supervised Learning
-  ├── Unsupervised Learning
-  ├── Feature Engineering
-  ├── Model Evaluation
-  └── Scikit-Learn
-
-Artificial Intelligence
-  ├── AI Fundamentals
-  ├── Computer Vision
-  └── Intelligent Applications
