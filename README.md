@@ -1,31 +1,27 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Goredy!;Welcome+to+my+GitHub!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Tess!;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
 <h3 align="center">
-  Python Developer | Machine Learning & AI Enthusiast | Data Science Learner
+  Data Analyst | Data Scientist | Machine Learning & AI Engineer
 </h3>
 
 <p align="center">
-  Exploring Machine Learning, Artificial Intelligence, Data Science, and practical Python projects.
+  Transforming data into actionable insights and building practical Data Science, Machine Learning, and AI solutions.
 </p>
 
----
-
 ## 👩‍💻 About Me
-
-- 🐍 **Python Developer** interested in building practical and useful applications.
-- 🤖 **Machine Learning & AI Enthusiast** exploring how intelligent systems can solve real-world problems.
-- 📊 **Data Science Learner** working with data analysis, visualization, and machine learning techniques.
-- 🌱 **Currently Learning:** Machine Learning, AI, Python, and data-driven problem solving.
-- 🔭 **Current Focus:** Strengthening ML fundamentals and building practical projects.
-- 🧠 **Interests:** Artificial Intelligence, Machine Learning, Data Science, and intelligent applications.
-- 💡 **Goal:** Build a strong foundation in AI/ML through continuous learning and hands-on projects.
+- 📊 Data Analyst focused on transforming raw data into clear insights, visualizations, and business recommendations.
+- 🔬 Data Scientist applying statistics, experimentation, feature engineering, and predictive modeling to real-world problems.
+- 🤖 Machine Learning & AI Engineer building intelligent applications, model pipelines, and deployable AI solutions.
+- 🌱 Currently Learning: Advanced Machine Learning, Artificial Intelligence, APIs, deployment, and data-driven problem solving.
+- 🔭 Current Focus: Building end-to-end Data Analytics, Data Science, Machine Learning, and AI projects.
+- 🧠 Interests: Business analytics, predictive modeling, Artificial Intelligence, and intelligent applications.
+- 💡 Goal: Develop production-ready data and AI solutions through continuous learning and hands-on projects.
 
 ---
-
 ## 🛠️ Skills & Technologies
 
 <h3 align="center">💻 Programming Languages & Databases</h3>
@@ -98,28 +94,8 @@
 
 ---
 
+
 ## 🚀 Featured Projects
-
-### 🚗 Car Price Prediction API
-
-A machine-learning application that predicts vehicle prices and provides predictions through an API.
-
-**Technologies:** Python, Pandas, Scikit-learn, FastAPI, model evaluation
-
-[View Repository](https://github.com/gtess360/car-price-api)
-
----
-
-### 📊 Data Science Portfolio
-
-A collection of data analysis, visualization, statistics, and machine-learning projects.
-
-**Technologies:** Python, SQL, NumPy, Pandas, Matplotlib, Scikit-learn
-
-[View Repository](https://github.com/gtess360/data-science)
-
----
-
 ## 📊 Data Analytics & Business Intelligence Projects
 
 ### 🛒 E-Commerce Sales Dashboard
@@ -127,6 +103,8 @@ A collection of data analysis, visualization, statistics, and machine-learning p
 An end-to-end sales analysis project examining revenue, profitability, customer behavior, products, and regional performance.
 
 **Technologies:** Python, SQL, Pandas, Excel, Power BI
+
+[View Repository](https://github.com/gtess360/car-price-api)
 
 ---
 
@@ -243,3 +221,20 @@ An interpretable classification project that estimates the likelihood of borrowe
 A computer-vision application that trains an image-classification model and serves predictions through an API.
 
 **Technologies:** Python, TensorFlow, CNNs, OpenCV, APIs
+
+
+
+---
+
+## 🎯 Goals
+
+- Build practical Python, Data Science, Machine Learning, and AI projects.
+- Strengthen data analysis, visualization, feature engineering, and model evaluation skills.
+- Develop end-to-end projects that solve real-world problems.
+- Continue progressing from Data Science fundamentals to Machine Learning and Artificial Intelligence.
+
+---
+
+<p align="center">
+  Thank you for visiting my GitHub profile!
+</p>
