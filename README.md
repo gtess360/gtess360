@@ -97,3 +97,39 @@
 </p>
 
 ---
+
+## 🚀 Projects
+
+### 📊 Data Analytics & Business Intelligence
+
+| Project | Purpose | Technologies & Concepts |
+|---|---|---|
+| **E-Commerce Sales Dashboard** | Analyze revenue, profitability, products, customers, and regional sales performance. | Python, SQL, Pandas, KPIs, data visualization |
+| **A/B Test Analysis** | Determine whether a business change produces a statistically meaningful improvement. | Python, hypothesis testing, confidence intervals, statistics |
+| **Marketing Campaign ROI** | Evaluate campaign spending, conversions, revenue, and return on investment. | Python, SQL, marketing analytics, ROI analysis |
+| **Web Traffic Analytics** | Analyze traffic sources, user behavior, engagement, funnels, and conversions. | Python, SQL, funnel analysis, data visualization |
+| **HR Attrition Analysis** | Examine employee and workplace factors associated with employee turnover. | Python, Pandas, exploratory data analysis, visualization |
+
+---
+
+### 🔬 Data Science & Predictive Analytics
+
+| Project | Purpose | Technologies & Concepts |
+|---|---|---|
+| **Customer Churn Prediction** | Identify customers who are likely to discontinue a service. | Python, classification, feature engineering, model evaluation |
+| **Customer Segmentation** | Group customers by purchasing behavior to support targeted strategies. | Python, clustering, feature engineering, segment analysis |
+| **Time-Series Forecasting** | Analyze historical trends and seasonality to forecast future performance. | Python, time-series analysis, forecasting, error evaluation |
+| **Demand Forecasting** | Predict product demand to support inventory and operational planning. | Python, forecasting, feature engineering, model evaluation |
+| **Supply-Chain Optimization** | Improve inventory, supplier, demand, and delivery decisions. | Python, optimization, forecasting, operations analytics |
+
+---
+
+### 🤖 Machine Learning & Artificial Intelligence
+
+| Project | Purpose | Technologies & Concepts |
+|---|---|---|
+| **Recommendation System API** | Deliver personalized product or content recommendations through an API. | Python, recommendation systems, similarity methods, APIs |
+| **NLP Sentiment Pipeline** | Build an end-to-end pipeline that classifies text by sentiment. | Python, NLP, text preprocessing, classification |
+| **Fraud Detection** | Detect potentially fraudulent transactions while addressing class imbalance. | Python, classification, anomaly detection, precision, recall |
+| **Credit-Risk Scoring** | Estimate borrower default risk using an interpretable classification model. | Python, risk modeling, classification, model interpretation |
+| **Image-Classification API** | Train an image-classification model and serve predictions through an API. | Python, TensorFlow, CNNs, OpenCV, APIs |
