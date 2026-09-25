@@ -31,66 +31,71 @@
 <h3 align="center">💻 Programming Languages & Databases</h3>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
+
 ---
 
 <h3 align="center">📊 Data Science & Machine Learning</h3>
 
 <p align="center">
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"></a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
+
 <p align="center">
-  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/S-4C72B0?style=for-the-badge" height="38" alt="Seaborn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scipy.org/"><img src="https://img.shields.io/badge/S-8CAAE6?style=for-the-badge" height="38" alt="SciPy"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/SM-4051B5?style=for-the-badge" height="38" alt="Statsmodels"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGB-EC4E20?style=for-the-badge" height="38" alt="XGBoost"></a>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost">
 </p>
+
 <p align="center">
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="38" alt="Excel"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="38" alt="Power BI"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="38" alt="Tableau"></a>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </p>
+
 ---
 
 <h3 align="center">🤖 Artificial Intelligence</h3>
 
 <p align="center">
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="38" alt="Hugging Face"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" height="38" alt="NLP">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP">
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" height="38" alt="LLM APIs">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" height="38" alt="RAG">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AGENT-A142F4?style=for-the-badge" height="38" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Agentic_AI-A142F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI">
 </p>
+
 ---
 
 <h3 align="center">🔧 Tools & Development</h3>
 
 <p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="55" height="55" alt="Streamlit"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="55" height="55" alt="Pytest"></a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
 </p>
+
 <p align="center">
-  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="55" height="55" alt="GitHub Actions"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter Notebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55" alt="Git"></a>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-<p align="center">
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub"></a>
-</p>
+
 ---
 
 ## 📚 What I'm Currently Learning
