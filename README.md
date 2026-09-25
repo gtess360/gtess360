@@ -120,10 +120,126 @@ A collection of data analysis, visualization, statistics, and machine-learning p
 
 ---
 
+## 📊 Data Analytics & Business Intelligence Projects
+
 ### 🛒 E-Commerce Sales Dashboard
 
 An end-to-end sales analysis project examining revenue, profitability, customer behavior, products, and regional performance.
 
 **Technologies:** Python, SQL, Pandas, Excel, Power BI
 
-[View Repository](ADD_REPOSITORY_LINK)
+---
+
+### 🧪 A/B Test Analysis
+
+A statistical analysis project that determines whether a business change produces a meaningful improvement.
+
+**Technologies:** Python, hypothesis testing, confidence intervals, statistics
+
+---
+
+### 📣 Marketing Campaign ROI
+
+An analysis of campaign spending, conversions, revenue, and return on investment across marketing channels.
+
+**Technologies:** Python, SQL, marketing analytics, ROI analysis
+
+---
+
+### 🌐 Web Traffic Analytics
+
+An analysis of website traffic sources, user behavior, engagement, conversion funnels, and performance trends.
+
+**Technologies:** Python, SQL, funnel analysis, data visualization
+
+---
+
+### 👥 HR Attrition Analysis
+
+An employee analytics project examining workplace and employee factors associated with staff turnover.
+
+**Technologies:** Python, Pandas, exploratory data analysis, data visualization
+
+---
+
+## 🔬 Data Science & Predictive Analytics Projects
+
+### 📉 Customer Churn Prediction
+
+A classification project that identifies customers who are likely to discontinue a service.
+
+**Technologies:** Python, classification, feature engineering, model evaluation
+
+---
+
+### 🧩 Customer Segmentation
+
+A clustering project that groups customers by purchasing behavior to support targeted business strategies.
+
+**Technologies:** Python, clustering, feature engineering, segment analysis
+
+---
+
+### 📈 Time-Series Forecasting
+
+A forecasting project that analyzes historical trends and seasonality to predict future performance.
+
+**Technologies:** Python, time-series analysis, forecasting, error evaluation
+
+---
+
+### 📦 Demand Forecasting
+
+A predictive project that estimates future product demand to support inventory and operational planning.
+
+**Technologies:** Python, forecasting, feature engineering, model evaluation
+
+---
+
+### 🚚 Supply-Chain Optimization
+
+An operations project focused on improving inventory, supplier, demand, and delivery decisions.
+
+**Technologies:** Python, optimization, forecasting, operations analytics
+
+---
+
+## 🤖 Machine Learning & Artificial Intelligence Projects
+
+### 🎯 Recommendation System API
+
+A recommendation application that delivers personalized product or content suggestions through an API.
+
+**Technologies:** Python, recommendation systems, similarity methods, APIs
+
+---
+
+### 💬 NLP Sentiment Pipeline
+
+An end-to-end natural-language-processing pipeline that classifies text according to sentiment.
+
+**Technologies:** Python, NLP, text preprocessing, classification
+
+---
+
+### 🛡️ Fraud Detection
+
+A machine-learning project that detects potentially fraudulent transactions while addressing class imbalance.
+
+**Technologies:** Python, classification, anomaly detection, precision, recall
+
+---
+
+### 💳 Credit-Risk Scoring
+
+An interpretable classification project that estimates the likelihood of borrower default.
+
+**Technologies:** Python, risk modeling, classification, model interpretation
+
+---
+
+### 🖼️ Image-Classification API
+
+A computer-vision application that trains an image-classification model and serves predictions through an API.
+
+**Technologies:** Python, TensorFlow, CNNs, OpenCV, APIs
