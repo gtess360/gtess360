@@ -28,95 +28,49 @@
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages & Databases</h3>
 
-<div align="center">
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    title="Python" alt="Python" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    title="C" alt="C" width="60" height="60"/>
-  </a>
-
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python"></a> | <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55" alt="C"></a> | <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"></a> | <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="55" height="55" alt="SQLite"></a> |
+| **Python** | **C** | **SQL** | **SQLite** |
 
 ---
 
-### 📊 Data Science & Machine Learning
+<h3 align="center">📊 Data Science & Machine Learning</h3>
 
-<div align="center">
-
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-    title="NumPy" alt="NumPy" width="60" height="60"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-    title="Pandas" alt="Pandas" width="60" height="60"/>
-  </a>
-
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
-    title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"
-    title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>
-  </a>
-
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"></a> | <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"></a> | <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"></a> | <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"></a> |
+| **NumPy** | **Pandas** | **Matplotlib** | **Scikit-learn** |
+| <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/S-4C72B0?style=for-the-badge" height="38" alt="Seaborn"></a> | <a href="https://scipy.org/"><img src="https://img.shields.io/badge/S-8CAAE6?style=for-the-badge" height="38" alt="SciPy"></a> | <a href="https://www.statsmodels.org/"><img src="https://img.shields.io/badge/SM-4051B5?style=for-the-badge" height="38" alt="Statsmodels"></a> | <a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGB-EC4E20?style=for-the-badge" height="38" alt="XGBoost"></a> |
+| **Seaborn** | **SciPy** | **Statsmodels** | **XGBoost** |
+| <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" alt="Excel"></a> | <a href="https://www.microsoft.com/power-platform/products/power-bi"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" alt="Power BI"></a> | <a href="https://www.tableau.com/"><img src="https://cdn.simpleicons.org/tableau/E97627" width="50" height="50" alt="Tableau"></a> | |
+| **Excel** | **Power BI** | **Tableau** | |
 
 ---
 
-### 🤖 Artificial Intelligence
+<h3 align="center">🤖 Artificial Intelligence</h3>
 
-<div align="center">
-
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-    title="TensorFlow" alt="TensorFlow" width="60" height="60"/>
-  </a>
-
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
-    title="OpenCV" alt="OpenCV" width="60" height="60"/>
-  </a>
-
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"></a> | <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"></a> | <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="Hugging Face"></a> | <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" height="38" alt="NLP"> |
+| **TensorFlow** | **OpenCV** | **Hugging Face** | **NLP** |
+| <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" height="38" alt="LLM APIs"> | <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" height="38" alt="RAG"> | <img src="https://img.shields.io/badge/AGENT-A142F4?style=for-the-badge" height="38" alt="Agentic AI"> | |
+| **LLM APIs** | **RAG** | **Agentic AI** | |
 
 ---
 
-### 🔧 Tools & Development
+<h3 align="center">🔧 Tools & Development</h3>
 
-<div align="center">
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-    title="VS Code" alt="VS Code" width="60" height="60"/>
-  </a>
-
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
-    title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    title="Git" alt="Git" width="60" height="60"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
-    title="SQLite" alt="SQLite" width="60" height="60"/>
-  </a>
-
-</div>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"></a> | <a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="55" height="55" alt="Streamlit"></a> | <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"></a> | <a href="https://docs.pytest.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="55" height="55" alt="Pytest"></a> |
+| **FastAPI** | **Streamlit** | **Docker** | **Pytest** |
+| <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="55" height="55" alt="GitHub Actions"></a> | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"></a> | <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter Notebook"></a> | <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55" alt="Git"></a> |
+| **GitHub Actions** | **VS Code** | **Jupyter Notebook** | **Git** |
+| <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub"></a> | | | |
+| **GitHub** | | | |
 
 ---
 
